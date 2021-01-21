@@ -1,0 +1,10 @@
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\bin\Debug\UD19.2.exe.config
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\bin\Debug\UD19.2.exe
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\bin\Debug\UD19.2.pdb
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\obj\Debug\UD19.2.csprojAssemblyReference.cache
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\obj\Debug\UD19._2.Form1.resources
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\obj\Debug\UD19._2.Properties.Resources.resources
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\obj\Debug\UD19.2.csproj.GenerateResource.cache
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\obj\Debug\UD19.2.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\obj\Debug\UD19.2.exe
+C:\Users\OMEN\source\repos\UD19.2\UD19.2\obj\Debug\UD19.2.pdb
