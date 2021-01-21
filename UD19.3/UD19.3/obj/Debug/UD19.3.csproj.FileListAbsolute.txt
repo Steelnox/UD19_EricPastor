@@ -1,0 +1,10 @@
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\bin\Debug\UD19.3.exe.config
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\bin\Debug\UD19.3.exe
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\bin\Debug\UD19.3.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\obj\Debug\UD19.3.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\obj\Debug\UD19._3.Form1.resources
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\obj\Debug\UD19._3.Properties.Resources.resources
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\obj\Debug\UD19.3.csproj.GenerateResource.cache
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\obj\Debug\UD19.3.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\obj\Debug\UD19.3.exe
+D:\Cursillos\Ejercicios\Proyectos\UD19.3\UD19.3\obj\Debug\UD19.3.pdb
